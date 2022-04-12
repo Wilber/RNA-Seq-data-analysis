@@ -1,6 +1,8 @@
 ---
 title: 'RNA-Seq Data Analysis at OSC'
 subtitle: 'Day 2: Multi-factor RNA-Seq Data Analysis'
+author: "Wilbur Ouma"
+date: "April 4, 2022"
 output:
   pdf_document:
     latex_engine: xelatex
