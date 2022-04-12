@@ -1,6 +1,8 @@
 ---
 title: 'RNA-Seq Data Analysis at OSC'
 subtitle: 'Day 1: Preprocessing of count expression data'
+author: "Wilbur Ouma"
+date: "April 4, 2022"
 output:
   pdf_document:
     latex_engine: xelatex
